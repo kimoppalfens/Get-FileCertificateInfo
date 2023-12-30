@@ -1,4 +1,5 @@
-﻿using System;
+﻿//Heavily based on the work of Matt Graeber aka Mattifestation's Get-TBSHash PowerShell filter
+using System;
 using System.Collections.Generic;
 using System.Runtime.InteropServices;
 using System.Security.Cryptography;
